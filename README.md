@@ -6,7 +6,7 @@ Uma simulação interativa de uma **urna eletrônica** construída com HTML, CSS
 
 Este projeto simula o funcionamento de uma urna eletrônica tradicional, permitindo:
 
-- Escolher um candidato através do número. 38111 ou 77222
+- Escolher um candidato através do número.
 - Vereador: 38111 ou 77222
 - Prefeito: 99 ou 84
 - Votar nulo ou em branco.
@@ -88,4 +88,4 @@ Desenvolvido por Kaio Kampos 💻
 
 📄 Licença
 Este projeto está sob a Licença MIT.
-Veja o arquivo LICENSE para mais detalhes.
+Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
